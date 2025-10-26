@@ -4,10 +4,8 @@
 -was made in about 7 days for the **Gamedev.tv Jam 2024**: <br/>
 -theme: **Last Stand** <br>
 -placement out of 1116 submissions: <br>
-<p style="margin-left: 2em; margin-top: 0;">
- **#1 Aesthetics** :trophy:
- #34 overall
-</p>
+    **#1 Aesthetics** :trophy: <br>
+    #34 overall <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | [Download Game](https://jonasthn.itch.io/no-sale-today)   |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
