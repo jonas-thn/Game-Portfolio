@@ -5,8 +5,8 @@
 -theme: **Last Stand** <br>
 -placement out of 1116 submissions: <br>
 <p style="margin-left: 2em; margin-top: 0;">
-**#1 Aesthetics** :trophy: <br>
-#34 overall <br>
+ **#1 Aesthetics** :trophy:
+ #34 overall
 </p>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | [Download Game](https://jonasthn.itch.io/no-sale-today)   |
