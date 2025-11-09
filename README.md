@@ -17,8 +17,8 @@
 
 </td>
 <td>
-<img src="imgs/fp1wjk.png" height="150" alt="No Sale Today preview"/>
-<img src="imgs/OXenlx.png" height="150" alt="No Sale Today preview"/>
+<img src="imgs/fp1wjk.png" width="200" alt="No Sale Today preview"/>
+<img src="imgs/OXenlx.png" width="200" alt="No Sale Today preview"/>
 </td>
 </tr>
 </table>
@@ -38,8 +38,8 @@
 
 </td>
 <td>
-<img src="imgs/mMLR19.png" height="150" alt="Comedy Survival preview"/>
-<img src="imgs/eRQjNR.jpg" height="150" alt="Comedy Survival preview"/>
+<img src="imgs/mMLR19.png" width="200" alt="Comedy Survival preview"/>
+<img src="imgs/eRQjNR.jpg" with="200" alt="Comedy Survival preview"/>
 </td>
 </tr>
 </table>
