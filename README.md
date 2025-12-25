@@ -4,7 +4,7 @@
 <td>
 
 -short and experimental puzzle game with a mysterious atmosphere <br>
--was made solo in 3-4 month <br>
+-was made solo in 2-3 month <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | [Download Game](https://jonasthn.itch.io/someone-tends-the-garden)   |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
