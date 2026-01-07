@@ -12,8 +12,8 @@
 
 </td>
 <td>
-<img src="imgs/garden.png" height="120" alt="Someone Tends The Garden preview"/>
-<img src="imgs/{B4AA56DD-B0E0-46B7-A6EE-9A831F01F2FD}.png" height="120" alt="Someone Tends The Garden preview"/>
+<img src="imgs/garden.png" height="110" alt="Someone Tends The Garden preview"/>
+<img src="imgs/{B4AA56DD-B0E0-46B7-A6EE-9A831F01F2FD}.png" height="110" alt="Someone Tends The Garden preview"/>
 </td>
 </tr>
 </table>
@@ -56,8 +56,8 @@
 
 </td>
 <td>
-<img src="imgs/mMLR19.png" height="120" alt="Comedy Survival preview"/>
-<img src="imgs/eRQjNR.jpg" height="120" alt="Comedy Survival preview"/>
+<img src="imgs/mMLR19.png" height="110" alt="Comedy Survival preview"/>
+<img src="imgs/eRQjNR.jpg" height="110" alt="Comedy Survival preview"/>
 </td>
 </tr>
 </table>
