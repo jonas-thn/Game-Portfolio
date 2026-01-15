@@ -5,6 +5,7 @@
 
 -short and **experimental** puzzle game with a mysterious atmosphere <br>
 -was made solo in **2-3 month** <br>
+-over 100 **custom-made** assets <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | [Download Game](https://jonasthn.itch.io/someone-tends-the-garden)   |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -46,7 +47,7 @@
 
 -interactive **Solar System** visualization using **Hand Tracking** and **Voice Control** <br>
 -created with **Unity** for a university course <br>
--team members: rookie10004, Lazar-Schmidt <br>
+-team member: rookie10004 <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | **---** |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
