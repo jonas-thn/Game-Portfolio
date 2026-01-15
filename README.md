@@ -46,6 +46,7 @@
 
 -interactive **Solar System** visualization using **Hand Tracking** and **Voice Control** <br>
 -created with **Unity** for a university course <br>
+-team members: rookie10004, Lazar-Schmidt <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | **---** |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
