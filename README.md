@@ -3,12 +3,12 @@
 <tr>
 <td>
 
--short and experimental puzzle game with a mysterious atmosphere <br>
--was made solo in 2-3 month <br>
+-short and **experimental** puzzle game with a mysterious atmosphere <br>
+-was made solo in **2-3 month** <br>
 
 | <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | [Download Game](https://jonasthn.itch.io/someone-tends-the-garden)   |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | *not public* |
+| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | **---** |
 
 </td>
 <td>
@@ -35,6 +35,25 @@
 </td>
 <td>
 <img src="imgs/fp1wjk.png" width="100%" alt="No Sale Today preview"/>
+</td>
+</tr>
+</table>
+
+## Multimodal Solar System
+<table>
+<tr>
+<td>
+
+-interactive **Solar System** visualization using **Hand Tracking** and **Voice Control** <br>
+-created with **Unity** for a university course <br>
+
+| <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />                     | **---** |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | [View Project](https://github.com/jonas-thn/https://github.com/jonas-thn/Solar-System-Multimodal) |
+
+</td>
+<td>
+<img src="imgs/solar-system.png" width="100%" alt="Solar System preview"/>
 </td>
 </tr>
 </table>
